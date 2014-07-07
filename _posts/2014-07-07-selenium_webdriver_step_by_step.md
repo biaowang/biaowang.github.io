@@ -31,7 +31,9 @@ Project name - SeleniumDemo
 - Selenium Chrome Driver
 - Junit
 
-![](../images/selenium/addMavenDependencies.png)
+![](http://biaowang.github.io/images/selenium/addMavenDependencies.png)
+
+
 
 
 
