@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Farewell GitHub, Hello Immersive Computing
+title: Hello, Github
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">21 Apr 2014 - New York City</p>
+<p class="meta">07 Jul 2014 - Chengdu</p>
 
 Today is my last day at GitHub. Recent events have given me a lot of time to
 reflect on what's important to me, and I've decided to switch gears and focus on
