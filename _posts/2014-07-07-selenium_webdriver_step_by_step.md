@@ -16,22 +16,9 @@ title: Selenium Webdriver Step by Step
 ## Selenium Webdriver Step by Step
 
 
-### Env
+### Gitbook
 
-- IDE - IntelliJ IDEA 
-- Build - Maven 
-
-### New Project
-
-Project name - SeleniumDemo
-
-### Maven Dependency
-
-- Selenium  
-- Selenium Chrome Driver
-- Junit
-
-![](http://biaowang.github.io/images/selenium/addMavenDependencies.png)
+[Selenium Webdriver Step by Step](http://biaowang.gitbooks.io/selenium-webdriver-test-step-by-step/)
 
 
 
