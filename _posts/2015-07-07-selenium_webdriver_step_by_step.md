@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Selenium Webdriver Step by Step
+categories: work
+tag: TW
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">07 Jul 2014 - Chengdu</p>
 
 
 ### Gitbook
