@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [翻译] The Customer Factory Manifesto - 客户工厂宣言
+title:  翻译 "The Customer Factory Manifesto" - 客户工厂宣言
 date:   2021-01-26 01:08:00 +0800
 categories: 世事洞明
 tag: TW
